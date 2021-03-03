@@ -1,5 +1,6 @@
-# GEOG497 SP21
-Geography 497 - Cryosphere and Climate Systems - Penn State University - Spring 2021
+# Geography 497 - Cryosphere and Climate Systems
+## Penn State University - Spring 2021
+
 
 Example code associated with lectures and assignments.
 
