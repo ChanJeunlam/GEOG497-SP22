@@ -1,7 +1,7 @@
 wget -q -O A3/Data/senf.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/senf.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/swsn.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/swsn.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/lwsn.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/lwsn.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
-wget -q -O A3/Data/latfn.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/latfn.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
+wget -q -O A3/Data/latf.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/latf.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/ff10m.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/ff10m.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/rh2m.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/rh2m.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/t2m.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/t2m.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
