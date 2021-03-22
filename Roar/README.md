@@ -10,7 +10,7 @@ Files here will get you set up with a conda environment on Penn State’s Roar s
 
 1.	Log into the ICS-ACI Portal: https://portal.aci.ics.psu.edu/
 2.	Click `Interactive Apps` and choose `RHEL7 Jupyter Server`
-3.	Most default options should be ok, but bump the number of hours requested up to how long you anticipate working in Jupyter. I’d recommend setting 4 for cores (and bumping this up if you are running into memory errors when executing code).
+3.	Most default options should be ok, but bump the number of hours requested up to how long you anticipate working in Jupyter. I’d recommend setting at least 4 for cores (and bumping this up if you are running into memory errors when executing code).
 4.	Click the blue `Launch` button.
 5.	This will take you to a waiting page while your Jupyter session waits to launch. Once it’s ready to go, click the blue `Connect to Jupyter Server` link which will launch a JupyterLab interface.
 
