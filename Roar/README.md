@@ -1,12 +1,12 @@
 ## General info
 
-Files here will get you set up with a conda environment on Penn State’s Roar supercomputer.
+Files here will get you set up with a conda environment on Penn State’s Roar supercomputer. You only need to do step 1 and 3 once. After this, any time you launch a Jupyter instance (step 2), you'll have the `geospatial-geog497` kernel ready to use.
 
-## Prerequisites:
+## Step 1 - Get an account:
 
 1.	You will need a Roar account, and if trying to access the model data used in some assignments, you’ll need access to the group storage. Sign up for an account here: https://www.icds.psu.edu/computing-services/account-setup/
 
-## Next steps:
+## Step 2 - Launch a Jupyter instance:
 
 1.	Log into the ICS-ACI Portal: https://portal.aci.ics.psu.edu/
 2.	Click `Interactive Apps` and choose `RHEL7 Jupyter Server`
@@ -14,7 +14,7 @@ Files here will get you set up with a conda environment on Penn State’s Roar s
 4.	Click the blue `Launch` button.
 5.	This will take you to a waiting page while your Jupyter session waits to launch. Once it’s ready to go, click the blue `Connect to Jupyter Server` link which will launch a JupyterLab interface.
 
-## Use Jupyter to install a conda environment with the necessary packages for our work:
+## Step 3 - Use Jupyter to install a conda environment with the necessary packages for our work:
 
 1.	Launch a Terminal by clicking the Terminal icon or go to File -> New Terminal.
 2.	Clone this github repository by copying/pasting the following into the terminal: 
