@@ -27,4 +27,4 @@ Files here will get you set up with a conda environment on Penn State’s Roar s
 
 This will take some time and you’ll see progress in the terminal window. One complete, you’ll be back to the command prompt (something like ` [ljt5282@comp-sc-0123 ~]$`)
 
-4.	That’s it! Now if you open up a Jupyter Notebook (or create a new one), and go to the Kernel -> Select Kernel… menu, you’ll see `geospatial-geog497`. Select this and you’re all set to execute some code!
+4.	That’s it! Now if you open up a Jupyter Notebook (or create a new one), and go to the Kernel -> Select Kernel… menu, you’ll see `geospatial-geog497`. Select this and you’re all set to execute some code! [If you do not, you may need to just hit the reload/refresh button in your browser]. 
