@@ -16,7 +16,7 @@ Files here will get you set up with a conda environment on Penn State’s Roar s
 
 ## Step 3 - Use Jupyter to install a conda environment with the necessary packages for our work:
 
-1.	Launch a Terminal by clicking the Terminal icon or go to File -> New Terminal.
+1.	Launch a Terminal by clicking the Terminal icon or go to File -> New -> Terminal.
 2.	Clone this github repository by copying/pasting the following into the terminal: 
 
 ```git clone https://github.com/trusel/GEOG497.git```
