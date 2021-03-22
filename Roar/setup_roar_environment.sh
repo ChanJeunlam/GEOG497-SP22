@@ -4,6 +4,9 @@
 # student will first need to execute git command to download the GEOG497 repo containing the environment yml file
 # git clone https://github.com/trusel/GEOG497.git 
 
+# load conda
+module load anaconda3/2020.07
+
 # create new conda environment in the user's work directory (larger than home)
 conda env create -p /storage/work/$USER/conda/envs/geospatial-geog497 -f ~/GEOG497/Roar/geospatial-geog497.yml
 
