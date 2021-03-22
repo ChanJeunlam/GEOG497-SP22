@@ -9,8 +9,3 @@ wget -q -O A3/Data/tskin.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http
 wget -q -O A3/Data/precip.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/precip.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/precip.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc "http://personal.psu.edu/ljt5282/precip.KNMI-2011.XPEN055.ERAINx_RACMO2.4.3H.nc_201605.nc"
 wget -q -O A3/Data/RACMO2.3p2_ANT27_snowmelt_daily_2011_2019_08.nc "http://personal.psu.edu/ljt5282/RACMO2.3p2_ANT27_snowmelt_daily_2011_2019_08.nc"
-wget -q -O A4/Data/snowmelt.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/snowmelt.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
-wget -q -O A4/Data/snowfall.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/snowfall.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
-wget -q -O A4/Data/refreeze.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/refreeze.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
-wget -q -O A4/Data/runoff.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/runoff.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
-wget -q -O A4/Data/smb_rec.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM.nc_fix_yearsum.nc "http://personal.psu.edu/ljt5282/smb_rec.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM.nc_fix_yearsum.nc"
