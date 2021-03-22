@@ -1,0 +1,5 @@
+wget -q -O Data/snowmelt.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/snowmelt.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
+wget -q -O Data/snowfall.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/snowfall.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
+wget -q -O Data/refreeze.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/refreeze.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
+wget -q -O Data/runoff.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc "http://personal.psu.edu/ljt5282/runoff.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM_yearsum.nc"
+wget -q -O Data/smb_rec.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM.nc_fix_yearsum.nc "http://personal.psu.edu/ljt5282/smb_rec.1958-2017.BN_RACMO2.3p2_FGRN055_GrIS.MM.nc_fix_yearsum.nc"
