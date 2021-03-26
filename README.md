@@ -8,7 +8,7 @@ This github repository hosts some course material associated with Geography 497 
 This course has a focus on the evolution, interactions, and feedbacks between ice sheets and the climate system over a range of timescales from past to future. Emphasis is placed on the analysis of climate and cryospheric datasets, and more broadly on working with data and thinking analytically as fundamental, transferrable skills. As of the initial offering, there are no formal pre-requisites for the class. Exercises therefore also serve as an introduction to working with tabular, gridded, and multi-dimensional datasets, and developing geospatial analytical skillsets. 
 
 ### Exploring code and data in the cloud
-Code here can be explored in an interactive JupterLab interface via Binder: 
+Code here can be explored in an interactive JupyterLab interface via Binder: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trusel/GEOG497/HEAD?urlpath=lab)
 
