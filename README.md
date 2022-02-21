@@ -10,7 +10,7 @@ This course has a focus on the evolution, interactions, and feedbacks between ic
 ### Exploring code and data in the cloud
 Code here can be explored in an interactive JupyterLab interface via Binder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trusel/GEOG497/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trusel/GEOG497-SP21/HEAD?urlpath=lab)
 
 However, given the size of some datasets being used in the assignments, not all work in Binder.
 
