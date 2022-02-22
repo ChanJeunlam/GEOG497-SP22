@@ -39,7 +39,7 @@ dependencies:
   - libev=4.33=h516909a_1
   - libevent=2.1.10=hcdb4288_3
   - libffi=3.3=h58526e2_2
-  - libgcc-ng-11.2.0=h1d223b6_11
+  - libgcc-ng=11.2.0=h1d223b6_9
   - libgfortran-ng=9.3.0=hff62375_18
   - libgfortran5=9.3.0=hff62375_18
   - libglib=2.66.7=h3e27bee_1
