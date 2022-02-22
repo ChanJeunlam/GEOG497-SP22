@@ -43,7 +43,7 @@ dependencies:
   - libgfortran-ng=9.3.0=hff62375_18
   - libgfortran5=9.3.0=hff62375_18
   - libglib=2.66.7=h3e27bee_1
-  - libgomp=9.3.0=h2828fa1_18
+  - libgomp=11.2.0=h1d223b6_9
   - libiconv=1.16=h516909a_0
   - liblapack=3.9.0=8_openblas
   - libllvm11=11.0.1=hf817b99_0
