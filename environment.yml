@@ -107,4 +107,5 @@ dependencies:
   - zlib
   - zstd=1.4.8=ha95c52a_1
   - seaborn
+  - xlrd
 
