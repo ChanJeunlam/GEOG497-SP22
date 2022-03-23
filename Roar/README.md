@@ -27,6 +27,6 @@ Note that access to Roar is only available to those affiliated with Penn State.
 
 ```bash GEOG497-SP22/Roar/setup_roar_environment.sh```
 
-This will take some time and you’ll see progress in the terminal window. One complete, you’ll be back to the command prompt (something like ` [ljt5282@comp-sc-0123 ~]$`)
+This will take some time and you’ll see progress in the terminal window. Once complete, you’ll be back to the command prompt (something like ` [ljt5282@comp-sc-0123 ~]$`)
 
 4.	That’s it! Now if you open up a Jupyter Notebook (or create a new one), and go to the Kernel -> Select Kernel… menu, you’ll see `geospatial-geog497-sp22`. Select this and you’re all set to execute some code! [If you do not, you may need to just hit the reload/refresh button in your browser]. 
