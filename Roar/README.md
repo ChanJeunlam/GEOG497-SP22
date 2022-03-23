@@ -2,6 +2,8 @@
 
 Files here will get you set up with a conda environment on Penn State’s Roar supercomputer. You only need to do step 1 and 3 once. After this, any time you launch a Jupyter instance (step 2), you'll have the `geospatial-geog497-sp22` kernel ready to use.
 
+Note that access to Roar is only available to those affiliated with Penn State. 
+
 ## Step 1 - Get an account:
 
 1.	You will need a Roar account, and if trying to access the model data used in some assignments, you’ll need access to the group storage. Sign up for an account here: https://www.icds.psu.edu/computing-services/account-setup/
