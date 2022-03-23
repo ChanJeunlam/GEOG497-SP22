@@ -14,12 +14,12 @@ Code here can be explored in an interactive JupyterLab interface via Binder:
 
 However, given the size of some datasets being used in the assignments, not all work in Binder.
 
-#### What works
+#### What works (via Binder)
 * Examples: Intro to python/jupyter/pandas using cryosphere and climate datasets.
 * Assignment 3: Exploring the föhn effect on Larsen C via weather station data and regional climate model output
 
-#### What doesn't work
- * TBA
+#### What doesn't work (via Binder)
+ * Assignment 4: GrIS SMB. This assignment reads large RCM datasets stored locally on the [Penn State Roar Supercomputer](https://github.com/trusel/GEOG497-SP22/tree/main/Roar).
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
