@@ -15,6 +15,7 @@ Code here can be explored in an interactive JupyterLab interface via Binder:
 However, given the size of some datasets being used in the assignments, not all work in Binder.
 
 #### What works
+* Examples: Intro to python/jupyter/pandas using cryosphere and climate datasets.
 * Assignment 3: Exploring the föhn effect on Larsen C via weather station data and regional climate model output
 
 #### What doesn't work
