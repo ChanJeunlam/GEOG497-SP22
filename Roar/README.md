@@ -1,6 +1,6 @@
 ## General info
 
-Files here will get you set up with a conda environment on Penn State’s Roar supercomputer. You only need to do step 1 and 3 once. After this, any time you launch a Jupyter instance (step 2), you'll have the `geospatial-geog497` kernel ready to use.
+Files here will get you set up with a conda environment on Penn State’s Roar supercomputer. You only need to do step 1 and 3 once. After this, any time you launch a Jupyter instance (step 2), you'll have the `geospatial-geog497-sp22` kernel ready to use.
 
 ## Step 1 - Get an account:
 
@@ -19,12 +19,12 @@ Files here will get you set up with a conda environment on Penn State’s Roar s
 1.	Launch a Terminal by clicking the Terminal icon or go to File -> New -> Terminal.
 2.	Clone this github repository by copying/pasting the following into the terminal: 
 
-```git clone https://github.com/trusel/GEOG497.git```
+```git clone https://github.com/trusel/GEOG497-SP22.git```
 
 3.	Execute the 'setup_roar_environment.sh' script by copying/pasting the following into the terminal:
 
-```bash GEOG497/Roar/setup_roar_environment.sh```
+```bash GEOG497-SP22/Roar/setup_roar_environment.sh```
 
 This will take some time and you’ll see progress in the terminal window. One complete, you’ll be back to the command prompt (something like ` [ljt5282@comp-sc-0123 ~]$`)
 
-4.	That’s it! Now if you open up a Jupyter Notebook (or create a new one), and go to the Kernel -> Select Kernel… menu, you’ll see `geospatial-geog497`. Select this and you’re all set to execute some code! [If you do not, you may need to just hit the reload/refresh button in your browser]. 
+4.	That’s it! Now if you open up a Jupyter Notebook (or create a new one), and go to the Kernel -> Select Kernel… menu, you’ll see `geospatial-geog497-sp22`. Select this and you’re all set to execute some code! [If you do not, you may need to just hit the reload/refresh button in your browser]. 
