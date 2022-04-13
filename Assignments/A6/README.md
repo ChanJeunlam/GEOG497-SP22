@@ -7,7 +7,7 @@ Please read the assignment for specifics, but this assignment consists of three 
 
 **In Part 2**, you will apply a melt classification approach to the ASCAT data that considers a day as melting if it exceeds some backscatter threshold (that you set) below the mean winter value in any given grid cell.
 
-**In Part 3**, you will apply this melt detection approach at 10 AWS sites and assess how well your ASCAT-derived melt results compare with the ground-based melt observations.
+**In Part 3**, you will apply this melt detection approach at 9 AWS sites and assess how well your ASCAT-derived melt results compare with the ground-based melt observations.
 
 
 ### Note about running this code
