@@ -12,6 +12,9 @@ dependencies:
   - matplotlib
   - seaborn
 
+  # dask for xarray.open_mfdataset()
+  - dask
+
   # Spatial packages
   - pysal
   - pyproj>=3.0
